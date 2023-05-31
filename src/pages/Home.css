@@ -1,0 +1,22 @@
+html,
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+    /* background: url('../food_images/home_main.png'); */
+    /* background: url('https://c0.wallpaperflare.com/preview/486/591/703/taco-chef-cartoon-kitchen-thumbnail.jpg'); */
+}
+
+.activeNav {
+    background-color: #3a68bc;
+    border-radius: 5px;
+}   
+
+.selectNav:hover {
+    background-color: rgb(22, 117, 148);
+    border-radius: 5px;
+}
+
+.selectNav:focus {
+    background-color: rgb(22, 117, 148);
+    border-radius: 5px;
+}
